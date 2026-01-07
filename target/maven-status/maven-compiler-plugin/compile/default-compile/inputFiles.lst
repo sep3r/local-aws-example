@@ -1,0 +1,6 @@
+D:\java EE Project\local-aws-example\src\main\java\com\sep3r\example\config\AwsConfig.java
+D:\java EE Project\local-aws-example\src\main\java\com\sep3r\example\LocalstackApplication.java
+D:\java EE Project\local-aws-example\src\main\java\com\sep3r\example\dynamodb\UserRepository.java
+D:\java EE Project\local-aws-example\src\main\java\com\sep3r\example\s3\S3Service.java
+D:\java EE Project\local-aws-example\src\main\java\com\sep3r\example\s3\S3Controller.java
+D:\java EE Project\local-aws-example\src\main\java\com\sep3r\example\dynamodb\User.java
